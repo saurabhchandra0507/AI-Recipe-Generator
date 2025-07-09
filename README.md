@@ -1,10 +1,9 @@
 # AI-Recipe-Generator
 
-<img width="1454" alt="Screenshot 2025-07-07 at 1 32 52 PM" src="https://github.com/user-attachments/assets/da731295-979b-4e06-b629-1948a530c39b" />
-<img width="1458" alt="Screenshot 2025-07-07 at 1 40 03 PM" src="https://github.com/user-attachments/assets/df0812dd-218b-4ff7-8750-b3eb0d881c51" />
+
+<img width="1467" alt="Screenshot 2025-07-10 at 12 28 08 AM" src="https://github.com/user-attachments/assets/42de2317-cfb4-40be-8177-9016cbdbdf03" />
 
 
-# AI Recipe Generator
 
 AI Recipe Generator is a web application that uses OpenAI's GPT models to generate creative and detailed recipes based on user-provided ingredients and preferences. The app streams the recipe in real-time as it's generated, providing an interactive and engaging experience.
 
